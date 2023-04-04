@@ -1,0 +1,2 @@
+# djangoproject
+management type
